@@ -1,7 +1,7 @@
 # Chat-Based Gmail Automation Agent
 
 ## Overview:
-      This project overview is a chat-based AI agent that automates the process of sending an application via Gmail. The agent takes a natural prompt, logs into Gmail using browser automation and login credentials of user, generates the email using Gemini AI, and sends it — all while showing visual feedback.
+This project overview is a chat-based AI agent that automates the process of sending an application via Gmail. The agent takes a natural prompt, logs into Gmail using browser automation and login credentials of user, generates the email using Gemini AI, and sends it — all while showing visual feedback.
 
 ---
 
