@@ -45,6 +45,13 @@ Gmail blocks headless/automated logins with 2FA, CAPTCHA, and security prompts. 
 
 ---
 
+## Gmail Automation Challenge:
+1. Due to google restricted policy gmail has stopped my selenium anti-bot to login with my credentials.
+2. There are 3 ways to get this challenge done:
+   a. We can use smtp to send mail to to given receipient address using gemini llm.(not required)
+   b. One more way is that  we can use manual login with login credentials or handling recaptcha using automation logic or we can use trusted browser.
+   c. One more way is that we can use GCP and google cloud studio to avoid blockings of selenium driver which is a complex way which requires premium account.
+
 ## Setup Instructions:
 
 1. Clone the repo.
